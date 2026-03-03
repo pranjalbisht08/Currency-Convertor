@@ -1,0 +1,1 @@
+# check the currency for your country through this simple js application.
